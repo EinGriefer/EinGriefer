@@ -1,4 +1,10 @@
-### Hi there 👋
+### hiii there 👋
+
+**📫 If you want to reach me, use Discord: EinGriefer#4636**<br>
+**⚡ I'm a Java and Web Developer**<br>
+**♥ Admin (Network Administration) and Developer at @GhastGamesDev**<br>
+
+
 
 <!--
 **EinGriefer/EinGriefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
