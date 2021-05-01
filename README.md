@@ -1,8 +1,7 @@
 ### hiii there 👋
 
 **📫 If you want to reach me, use Discord: EinGriefer#4636**<br>
-**⚡ I'm a Java and Web Developer**<br>
-**♥ Admin (Network Administration) and Developer at @GhastGamesDev**<br>
+**⚡ I am interested in web and network development**<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=EinGriefer&count_private=true&show_icons=true&theme=tokyonight)
 
